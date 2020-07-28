@@ -1,4 +1,10 @@
-### Hi there 👋
+### qcl
+
+qcl, coding & learning.
+
+Taiwanese, iOS developer, Swift/Objective-C, JavaScript, Python, CI/CD, NLP.
+
+I was Senior Mobile Apps Developer at @yahoo in Taiwan and iOS Developer at @bookingcom in the Netherlands. 
 
 <!--
 **qcl/qcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
