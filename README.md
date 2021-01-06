@@ -4,7 +4,9 @@ qcl, coding & learning.
 
 Taiwanese, iOS developer, Swift/Objective-C, JavaScript, Python, CI/CD, NLP.
 
-I was Senior Mobile Apps Developer at [@yahoo](https://github.com/yahoo) in Taiwan and iOS Developer at [@bookingcom](https://github.com/bookingcom) in the Netherlands. 
+Currently work as Senior iOS Developer at [@line](https://github.com/line) in Taipei, Taiwan.
+
+Previously I was iOS Developer at [@bookingcom](https://github.com/bookingcom) in the Amsterdam, Netherlands and used to be Senior Mobile Apps Developer at [@yahoo](https://github.com/yahoo) in Taipei, Taiwan.
 
 <!--
 **qcl/qcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
