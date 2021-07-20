@@ -7,7 +7,7 @@ Taiwanese, iOS developer, Swift/Objective-C, JavaScript, Python, CI/CD, NLP.
 Currently work as Senior iOS Developer at [@line](https://github.com/line) in Taipei, Taiwan.
 
 Previously I was:
-- iOS Developer at [@bookingcom](https://github.com/bookingcom) in Amsterdam, the Netherlands (2018-2021) 
+- iOS Developer at [@bookingcom](https://github.com/bookingcom) in Amsterdam, the Netherlands (2018-2020) 
 - Senior Mobile Apps Developer at [@yahoo](https://github.com/yahoo) in Taipei, Taiwan. (2014-2017)
 
 <!--
