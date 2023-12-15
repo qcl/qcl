@@ -4,7 +4,7 @@ qcl, coding & learning.
 
 Taiwanese, iOS developer, Swift/Objective-C, JavaScript, Python, CI/CD, NLP.
 
-Currently work as Senior iOS Developer at [@line](https://github.com/line) in Taipei, Taiwan.
+Currently work as Senior iOS Developer at [@line](https://github.com/line) in Taipei, Taiwan. (since 2020)
 
 Previously I was:
 - iOS Developer at [@bookingcom](https://github.com/bookingcom) in Amsterdam, the Netherlands (2018-2020) 
